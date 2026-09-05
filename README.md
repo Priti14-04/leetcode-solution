@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Priti14-04/leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Priti14-04/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Priti14-04/leetcode-solution/tree/master/0242-valid-anagram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priti14-04/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
@@ -22,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Priti14-04/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priti14-04/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
