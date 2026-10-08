@@ -14,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Priti14-04/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priti14-04/leetcode-solution/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priti14-04/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Priti14-04/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priti14-04/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priti14-04/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/Priti14-04/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priti14-04/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
