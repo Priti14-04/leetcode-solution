@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Priti14-04/leetcode-solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Priti14-04/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priti14-04/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priti14-04/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Priti14-04/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Priti14-04/leetcode-solution/tree/master/0202-happy-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priti14-04/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
@@ -51,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Priti14-04/leetcode-solution/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Priti14-04/leetcode-solution/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Priti14-04/leetcode-solution/tree/master/0412-fizz-buzz) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Priti14-04/leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
