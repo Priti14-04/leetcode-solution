@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Priti14-04/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Priti14-04/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priti14-04/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Priti14-04/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priti14-04/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Priti14-04/leetcode-solution/tree/master/1844-replace-all-digits-with-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priti14-04/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Priti14-04/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Priti14-04/leetcode-solution/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Priti14-04/leetcode-solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
